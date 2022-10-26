@@ -1,0 +1,22 @@
+{
+  "name": "loops",
+  "version": "1.0.0",
+  "description": "loops lessons",
+  "main": "loops1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awebdeff/loops.git"
+  },
+  "keywords": [
+    "loop"
+  ],
+  "author": "awebdeff <awebdeff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awebdeff/loops/issues"
+  },
+  "homepage": "https://github.com/awebdeff/loops#readme"
+}

@@ -1,0 +1,12 @@
+node_modules/
+.vscode/
+.idea/
+
+info/
+
+TODO.md
+
+default.json
+
+*.txt
+*.zip
