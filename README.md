@@ -1,1 +1,1 @@
-## Simple tasks for programming practice.
+## Simple tasks for programming practice
